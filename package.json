@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-amplify-typescript",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "amplify",
+    "typescript"
+  ],
+  "description": "The unofficial AWS Amplify + TypeScript template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/katallaxie/cra-template-amplify-typescript.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/katallaxie/cra-template-amplify-typescript/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
